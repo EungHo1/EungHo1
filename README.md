@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# 👋 Welcome to my GitHub!
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho2762&show_icons=true&theme=radical)
+### BOJ Rank
+<a href="https://solved.ac/profile/ho2762">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho2762)</a>
 
 <!--
 **EungHo1/EungHo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
