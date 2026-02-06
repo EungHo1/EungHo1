@@ -1,8 +1,6 @@
 
 # 👋 Welcome to my GitHub!
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EungHo1&show_icons=true&theme=radical)
 ### BOJ Rank
 <a href="https://solved.ac/profile/ho2762">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho2762)</a>
 
